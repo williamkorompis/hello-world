@@ -1,2 +1,2 @@
 # hello-world
-# My name is William Korompis.
+# My name is William K from McDaniel College.
